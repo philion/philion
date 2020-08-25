@@ -1,5 +1,6 @@
-Acme Rocket Projects
-====================
+## Testing 1, 2, 3
+
+# Projects
 
 * [guice-modules] : Library to do "module tagging" and load Guice modules based on simple config tags.
 * [dropwizard-guice] : Guice library for Dropwizard integration.
