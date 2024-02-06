@@ -1,6 +1,12 @@
-## Testing 1, 2, 3
-
 # Projects
+
+## Current
+
+* [netbot](https://github.com/Local-Connectivity-Lab/netbot)
+* [scn-redmine](https://github.com/Local-Connectivity-Lab/scn-redmine)
+* [tansible]
+
+## Old
 
 * [guice-modules](philion/guice-modules) : Library to do "module tagging" and load Guice modules based on simple config tags.
 * [dropwizard-guice] : Guice library for Dropwizard integration.
