@@ -4,7 +4,7 @@
 
 * [netbot](https://github.com/Local-Connectivity-Lab/netbot)
 * [scn-redmine](https://github.com/Local-Connectivity-Lab/scn-redmine)
-* [tansible]
+* [tansible](https://github.com/philion/tansible)
 
 ## Old
 
