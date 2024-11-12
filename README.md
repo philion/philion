@@ -4,6 +4,7 @@
 
 * [netbot](https://github.com/Local-Connectivity-Lab/netbot)
 * [scn-redmine](https://github.com/Local-Connectivity-Lab/scn-redmine)
+* [mack](https://github.com/acmerocket/mack)
 * [tansible](https://github.com/philion/tansible)
 
 ## Old
