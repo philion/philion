@@ -2,13 +2,15 @@
 
 ## Current
 
+* [resilience](https://github.com/UW-THINKlab/resilience)
 * [netbot](https://github.com/Local-Connectivity-Lab/netbot)
 * [scn-redmine](https://github.com/Local-Connectivity-Lab/scn-redmine)
 * [mack](https://github.com/acmerocket/mack)
-* [tansible](https://github.com/philion/tansible)
+* [clw](https://github.com/philion/clw)
 
 ## Old
 
+* [tansible](https://github.com/philion/tansible)
 * [fireside](https://github.com/acmerocket/fireside) : Casual, multiplayer interactive fiction/storytelling with RPG capabilities.
 * [guice-modules](philion/guice-modules) : Library to do "module tagging" and load Guice modules based on simple config tags.
 * [dropwizard-guice](https://github.com/philion/dropwizard-guice) : Guice library for Dropwizard integration.
